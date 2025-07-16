@@ -1,0 +1,4 @@
+repository "Proyecto3DGrupal@TrabajosUsj_FC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
